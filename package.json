@@ -1,4 +1,5 @@
 {
+  "homepage": "http://paoragul.github.io/spotify-gestalt-principles",
   "name": "expo-spotify",
   "version": "0.0.1",
   "description": "GESTALT PRINCIPLES",
@@ -22,7 +23,6 @@
     "deploy": "gh-pages -d web-build",
     "predeploy": "expo build:web"
   },
-  "homepage": "http://paoragul.github.io/spotify-gestalt-principles",
   "dependencies": {
     "@expo/vector-icons": "^12.0.0",
     "@react-native-community/masked-view": "0.1.10",
@@ -44,7 +44,8 @@
     "react-native-web": "0.17.1",
     "react-navigation": "^4.4.4",
     "react-navigation-stack": "^2.10.4",
-    "react-navigation-tabs": "^2.11.1"
+    "react-navigation-tabs": "^2.11.1",
+    "yarn": "^1.22.17"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
