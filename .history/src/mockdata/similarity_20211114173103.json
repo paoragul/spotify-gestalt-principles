@@ -1,0 +1,14 @@
+[
+  { "id": 1, "image": "demonDays", "title": "Demon Days" },
+  {
+    "id": 2,
+    "image": "theBeginning",
+    "title": "The Beginning"
+  },
+  { "id": 3, "image": "certifiedLoverBoy", "title": "Certified Lover Boy" },
+  {
+    "id": 4,
+    "image": "makingMirrors",
+    "title": "Making Mirrors"
+  }
+]
